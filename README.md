@@ -256,9 +256,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hritik Jhaveri**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@codex83](https://github.com/codex83)
+- LinkedIn: [hritik-jhaveri](https://linkedin.com/in/hritik-jhaveri)
+- Email: htj2@uchicago.edu
 
 ## ⭐ Star This Repository
 
